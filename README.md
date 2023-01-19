@@ -4,7 +4,7 @@ Hi 👋 My name is Hipolito Miranda
 Backend Developer
 -----------------
 
-I’m a Backend developer with 3 years of experience working with technologies such as Node.js, Express.js and some Frontend technologies, such as React.js, Bootstrap and Typescript. I have experience working with non relationship databases like MongoDB and relationship database like MySQL. I have hands-on experience developing solutions for various clients, implementing best coding practices and insurance quality standards. I’m always learning, adapting and looking for ways to improve the projects that I’m involved in.
+Full Stack Developer with more than 3 years of experience in developing web applications using TypeScript, JavaScript, React, Next.js, Node.js, Express, MongoDB, MySQL, GraphQL, and Docker. Solid understanding of software architecture, REST API design, and programming best practices. Experience implementing scalable solutions and tackling complex issues in a team environment. Passionate about learning and utilizing the latest technologies to solve problems and enhance user experience.
 
 * 🌍  I'm based in Mexico
 * 🖥️  See my portfolio at [hipolito.dev](http://hipolito.dev)
