@@ -4,7 +4,7 @@ Hi 👋 My name is Hipolito Miranda
 Full Stack Developer
 -----------------
 
-Full Stack Developer with more than 3 years of experience in developing web applications using TypeScript, JavaScript, React, Next.js, Node.js, Express, MongoDB, MySQL, GraphQL, and Docker. Solid understanding of software architecture, REST API design, and programming best practices. Experience implementing scalable solutions and tackling complex issues in a team environment. Passionate about learning and utilizing the latest technologies to solve problems and enhance user experience.
+Full Stack Developer with 3+ years of experience in developing web applications using TypeScript, JavaScript, React, Next.js, Node.js, Express, MongoDB, MySQL, GraphQL, and Docker. Solid understanding of software architecture, REST API design, and programming best practices. Experience implementing scalable solutions and tackling complex issues in a team environment. Passionate about learning and utilizing the latest technologies to solve problems and enhance user experience.
 
 * 🌍  I'm based in Mexico
 * 🖥️  See my portfolio at [hipolito.dev](http://hipolito.dev)
