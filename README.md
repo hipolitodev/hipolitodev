@@ -4,6 +4,8 @@ Hi 👋 My name is Hipolito Miranda
 Full Stack Developer
 -----------------
 
+Former backend wizard turned frontend maestro. I code with JavaScript like it's second nature, but these days I'm all about the strong types with TypeScript. Catch me slinging code, building UIs, and dropping bad puns on the daily.
+
 Full Stack Developer with 3+ years of experience in developing web applications using TypeScript, JavaScript, React, Next.js, Node.js, Express, MongoDB, MySQL, GraphQL, and Docker. Solid understanding of software architecture, REST API design, and programming best practices. Experience implementing scalable solutions and tackling complex issues in a team environment. Passionate about learning and utilizing the latest technologies to solve problems and enhance user experience.
 
 * 🌍  I'm based in Mexico
